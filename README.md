@@ -78,7 +78,7 @@ This project provided practical experience with CUDA programming, GPU memory tra
 
 ## Author
 
-Namrata Thute
+Mayank Pande
 
 ## Note
 
